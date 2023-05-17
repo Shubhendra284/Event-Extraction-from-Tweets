@@ -9,11 +9,10 @@ https://drive.google.com/file/d/1vs-tJM7hN9YPyLlB25Gil4e2RTO5_Lch/view?usp=share
 
 To run the code in the Jupyter Notebook file Event_Ext.ipynb, follow the instructions below:
 Clone the repository:
-```bash
+'''
 git clone https://github.com/Shubhendra284/Event-Extraction-from-Tweets.git
 cd Event-Extraction-from-Tweets
 '''
-
 Install the dependencies:
 Ensure you have the necessary dependencies installed. You can install them using the following command:
 pip install -r requirements.txt
